@@ -54,7 +54,7 @@ body {
 
 /*HOME PAGE*/
 .container .main-heading {
-	text-align: center;
+	/*text-align: center;*/
 	font-size: 2em;
 }
 .container .main-heading h2 {
